@@ -1,0 +1,45 @@
+Kolokwium grupa nr 1
+
+(1pkt) Co oznacza słowo kluczowe enum? 
+ 
+ 
+
+(1pkt) Jakiego typu jest literał w nawiasach (128) 
+
+(1pkt) Do czego słuzy słowo kluczowe goto? 
+ 
+
+(3pkt) Co to jest zbiór referencji głównych? 
+ 
+
+(2pkt) Jak odwołac sie do funkcji? 
+
+(2pkt) Co to jest konstruktor domyslny? Podaj przykład. 
+ 
+ 
+
+Kolokwium grupa nr 2
+
+(1pkt) Ile bitów zajmuje dana w typie short? 
+
+(1pkt) Jakiego typu jest literał w nawiasach (129) 
+
+(1pkt) Co oznacza słowo kluczowe interface? 
+ 
+
+(1pkt) Do czego słuzy słowo kluczowe strictfp? 
+ 
+
+(1pkt) Jakiego typu jest literał w nawiasach (9,3) 
+
+(1pkt) Ile bitów zajmuje dana w typie byte? 
+
+(1pkt) Co oznacza słowo kluczowe class? 
+ 
+
+(1pkt) Ile bitów zajmuje dana w typie double? 
+
+(1pkt) Do czego słuzy słowo kluczowe volatile? 
+
+(1pkt) Ile bitów zajmuje dana w typie int? 
+

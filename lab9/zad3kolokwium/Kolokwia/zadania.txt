@@ -1,0 +1,31 @@
+# kolokwium z APRO1
+#
+{ grupa dotyczaca precyzji bitowej
+1 1 Ile bitów zajmuje dana w typie int?
+1 1 Ile bitów zajmuje dana w typie short?
+1 1 Ile bitów zajmuje dana w typie byte?
+1 1 Ile bitów zajmuje dana w typie float?
+1 1 Ile bitów zajmuje dana w typie double?
+} koniec grupy
+{ kolejna grupa...
+1 1 Jakiego typu jest literał w nawiasach (-129)
+1 1 Jakiego typu jest literał w nawiasach (128)
+1 1 Jakiego typu jest literał w nawiasach (129)
+1 1 Jakiego typu jest literał w nawiasach (9,3)
+}
+{ grupa dotyczaca nieczesto uzywanych słów kluczowych
+1 2 Do czego słuzy słowo kluczowe strictfp?
+1 1 Do czego słuzy słowo kluczowe transient?
+1 1 Do czego słuzy słowo kluczowe volatile?
+# a to dodatkowo jest podchwytliwe...
+1 2 Do czego słuzy słowo kluczowe goto?
+}
+1 2 Co oznacza słowo kluczowe class?
+1 2 Co oznacza słowo kluczowe interface?
+1 3 Co oznacza słowo kluczowe enum?
+2 3 Co to jest konstruktor domyslny? Podaj przykład.
+2 3 Co to jest konstruktor bezparametrowy? Podaj przykład.
+3 2 Co to jest zbiór referencji głównych?
+1 1 Czy this jest dostepne w funkcjach?
+2 1 Co to jest funkcja?
+2 1 Jak odwołac sie do funkcji?
